@@ -1,6 +1,6 @@
 # SEMIHOSTING
 
-To illustrate the use of semihosing mechanism for stm32f446re(Nucleo)
+To illustrate the use of semihosting mechanism for stm32f446re(Nucleo)
 
 
 The below steps are required to enable semihosting
